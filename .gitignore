@@ -1,0 +1,18 @@
+# Android Studio project files
+*.iml
+.idea
+/.idea/workspace.xml
+/.idea/libraries
+
+# Gradle cache
+.gradle
+
+# Local config
+/local.properties
+
+# System files
+.DS_Store
+
+# Other files
+/build
+/captures
